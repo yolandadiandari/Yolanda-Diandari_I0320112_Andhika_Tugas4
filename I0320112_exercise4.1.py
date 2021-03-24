@@ -18,5 +18,5 @@ print(' x / y =',x/y)
 
 
 #output : x ** y = 50625
-print('x ** y =',x**y)
+print('x ** y =', x**y)
 
