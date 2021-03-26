@@ -1,4 +1,4 @@
-s = "Strongs and awesome!"
+s = "Strudle are awesome!"
 # Panjangnya harusnya 20
 print("panjang dari s = %d" % len(s))
 
